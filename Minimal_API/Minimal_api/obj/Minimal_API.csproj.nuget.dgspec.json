@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\32599952859\\Desktop\\Minimal_API\\Minimal_API\\Minimal_API.csproj": {}
+    "C:\\Users\\32599952859\\Desktop\\Minimal-API\\Minimal_API\\Minimal_API\\Minimal_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\32599952859\\Desktop\\Minimal_API\\Minimal_API\\Minimal_API.csproj": {
+    "C:\\Users\\32599952859\\Desktop\\Minimal-API\\Minimal_API\\Minimal_API\\Minimal_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\32599952859\\Desktop\\Minimal_API\\Minimal_API\\Minimal_API.csproj",
+        "projectUniqueName": "C:\\Users\\32599952859\\Desktop\\Minimal-API\\Minimal_API\\Minimal_API\\Minimal_API.csproj",
         "projectName": "Minimal_API",
-        "projectPath": "C:\\Users\\32599952859\\Desktop\\Minimal_API\\Minimal_API\\Minimal_API.csproj",
+        "projectPath": "C:\\Users\\32599952859\\Desktop\\Minimal-API\\Minimal_API\\Minimal_API\\Minimal_API.csproj",
         "packagesPath": "C:\\Users\\32599952859\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\32599952859\\Desktop\\Minimal_API\\Minimal_API\\obj\\",
+        "outputPath": "C:\\Users\\32599952859\\Desktop\\Minimal-API\\Minimal_API\\Minimal_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\32599952859\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -89,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
