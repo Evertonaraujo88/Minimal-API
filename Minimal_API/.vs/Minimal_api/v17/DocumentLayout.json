@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\32599952859\\Desktop\\Minimal_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4562EC-AB28-455D-90C6-24A796475A35}|Minimal_API\\Minimal_API.csproj|c:\\users\\32599952859\\desktop\\minimal_api\\minimal_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4562EC-AB28-455D-90C6-24A796475A35}|Minimal_API\\Minimal_API.csproj|solutionrelative:minimal_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4562EC-AB28-455D-90C6-24A796475A35}|Minimal_API\\Minimal_API.csproj|c:\\users\\32599952859\\desktop\\minimal_api\\minimal_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4562EC-AB28-455D-90C6-24A796475A35}|Minimal_API\\Minimal_API.csproj|solutionrelative:minimal_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4562EC-AB28-455D-90C6-24A796475A35}|Minimal_API\\Minimal_API.csproj|c:\\users\\32599952859\\desktop\\minimal_api\\minimal_api\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4562EC-AB28-455D-90C6-24A796475A35}|Minimal_API\\Minimal_API.csproj|solutionrelative:minimal_api\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4562EC-AB28-455D-90C6-24A796475A35}|Minimal_API\\Minimal_API.csproj|c:\\users\\32599952859\\desktop\\minimal_api\\minimal_api\\domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4562EC-AB28-455D-90C6-24A796475A35}|Minimal_API\\Minimal_API.csproj|solutionrelative:minimal_api\\domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4562EC-AB28-455D-90C6-24A796475A35}|Minimal_API\\Minimal_API.csproj|c:\\users\\32599952859\\desktop\\minimal_api\\minimal_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F4562EC-AB28-455D-90C6-24A796475A35}|Minimal_API\\Minimal_API.csproj|solutionrelative:minimal_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\32599952859\\Desktop\\Minimal_API\\Minimal_api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Minimal_api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\32599952859\\Desktop\\Minimal_API\\Minimal_api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Minimal_api\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAgwIkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:13:42.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\32599952859\\Desktop\\Minimal_API\\Minimal_api\\Domains\\Product.cs",
+              "RelativeDocumentMoniker": "Minimal_api\\Domains\\Product.cs",
+              "ToolTip": "C:\\Users\\32599952859\\Desktop\\Minimal_API\\Minimal_api\\Domains\\Product.cs",
+              "RelativeToolTip": "Minimal_api\\Domains\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAACrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:51:36.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoDbService.cs",
+              "DocumentMoniker": "C:\\Users\\32599952859\\Desktop\\Minimal_API\\Minimal_api\\Services\\MongoDbService.cs",
+              "RelativeDocumentMoniker": "Minimal_api\\Services\\MongoDbService.cs",
+              "ToolTip": "C:\\Users\\32599952859\\Desktop\\Minimal_API\\Minimal_api\\Services\\MongoDbService.cs",
+              "RelativeToolTip": "Minimal_api\\Services\\MongoDbService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwBsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:32:19.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\32599952859\\Desktop\\Minimal_API\\Minimal_api\\Program.cs",
+              "RelativeDocumentMoniker": "Minimal_api\\Program.cs",
+              "ToolTip": "C:\\Users\\32599952859\\Desktop\\Minimal_API\\Minimal_api\\Program.cs",
+              "RelativeToolTip": "Minimal_api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:28:22.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\32599952859\\Desktop\\Minimal_API\\Minimal_api\\appsettings.json",
+              "RelativeDocumentMoniker": "Minimal_api\\appsettings.json",
+              "ToolTip": "C:\\Users\\32599952859\\Desktop\\Minimal_API\\Minimal_api\\appsettings.json",
+              "RelativeToolTip": "Minimal_api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T11:28:51.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
