@@ -1,4 +1,5 @@
 ﻿using MongoDB.Bson.Serialization.Attributes;
+using System.Text.Json.Serialization;
 
 namespace Minimal_API.Domains
 {
@@ -17,18 +18,39 @@ namespace Minimal_API.Domains
         [BsonElement("status")]
         public string? Status { get; set; }
 
-        [BsonElement("idProduct")]
-        public string? IdProduct { get; set; }
 
-        [BsonElement("idClient")]
-        public string? IdClient { get; set; }
+
+        //referência aos produtos do pedido
+
+        //referencia para que eu consiga cadasrtar um pedido com os produtos
+        [BsonElement("productId")]
+        [JsonIgnore] //ignora a lista na hora do get, pois, na lista de produtos ja contem os id's
+        public List<string> ProductId { get; set; }
+
+        //referecia para que quando eu liste os pedidos, venham os dados de cada produto(lista)
+        public List<Product>? Products { get; set; }
+
+
+
+
+        //referência aos cliente que fizeram os pedidos
+
+        //referencia para que eu consiga cadastrar um pedido com o cliente
+        [BsonElement("clientId")]
+        [JsonIgnore]
+        public string? ClientId { get; set; }
+
+        //referencia para que eu liste os pedidos, venham os dados do cliente
+        public Client? Client { get; set; }
+
+
 
 
         //Adiciona um dicionario para atributos adicionais alem dos jah definidos
         public Dictionary<string, string>? AdditionalAttributes { get; set; }
 
         /// <summary>
-        /// Ao ser instancia um obj da classe Product, o atributo AdditionalAttributes jah virah com um novo dicionario e portanto habilitado para adicionar mais atributos
+        /// Ao ser instancia um obj da classe Order, o atributo AdditionalAttributes jah virah com um novo dicionario e portanto habilitado para adicionar mais atributos
         /// </summary>
         public Order()
         {

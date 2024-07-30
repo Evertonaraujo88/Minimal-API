@@ -12,7 +12,7 @@ namespace Minimal_API.Domains
         public string? Id { get; set; }
 
         [BsonElement("userId")]
-        public string? UserId { get; set; }
+        public User? UserId { get; set; }
 
         [BsonElement("cpf")]
         public string? Cpf { get; set; }
@@ -28,7 +28,7 @@ namespace Minimal_API.Domains
         public Dictionary<string, string>? AdditionalAttributes { get; set; }
 
         /// <summary>
-        /// Ao ser instancia um obj da classe Product, o atributo AdditionalAttributes jah virah com um novo dicionario e portanto habilitado para adicionar mais atributos
+        /// Ao ser instancia um obj da classe Client, o atributo AdditionalAttributes jah virah com um novo dicionario e portanto habilitado para adicionar mais atributos
         /// </summary>
         public Client()
         {

@@ -24,7 +24,7 @@ namespace Minimal_API.Domains
         public Dictionary<string, string>? AdditionalAttributes { get; set; }
 
         /// <summary>
-        /// Ao ser instancia um obj da classe Product, o atributo AdditionalAttributes jah virah com um novo dicionario e portanto habilitado para adicionar mais atributos
+        /// Ao ser instancia um obj da classe User, o atributo AdditionalAttributes jah virah com um novo dicionario e portanto habilitado para adicionar mais atributos
         /// </summary>
         public User()
         {
